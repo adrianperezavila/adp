@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Geochemistry, tectonics, and mineral exploration, with a focus on magmatic and hydrothermal systems"
   location         : "Earth"
-  employer         : "SGC"
-  uri              : " https://www.sgc.gov.co/ "
+  employer         : "Colombia Geological Survey - SGC"
+  uri              : https://www.sgc.gov.co/
   email            : "adrianperezavila@gmail.com" 
 
   # Academic websites
