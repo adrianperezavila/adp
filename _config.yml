@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Adrian Perez Avila / MSc in Geology"
+title                    : "Adrian Perez Avila"
 title_separator          : "-"
 name                     : &name "Adrian Perez Avila."
 description              : &description "Geochemistry, tectonics, and mineral exploration, with a focus on magmatic and hydrothermal systems"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Adrian Perez Avila"
+  name             : "Adrian Perez Avila | MSc in Geology"
   pronouns         : # example: "she/her"  
   bio              : "Geochemistry, tectonics, and mineral exploration, with a focus on magmatic and hydrothermal systems"
   location         : "Earth"
