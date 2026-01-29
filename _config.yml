@@ -29,7 +29,7 @@ author:
   bio              : "Geochemistry, tectonics, and mineral exploration, with a focus on magmatic and hydrothermal systems"
   location         : "Earth"
   employer         : "SGC"
-  uri              : # https://www.sgc.gov.co/
+  uri              : " https://www.sgc.gov.co/ "
   email            : "adrianperezavila@gmail.com" 
 
   # Academic websites
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "adrianperezavila"
+  github           : "/adrianperezavila"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "adrian-perez-avila-20b26060"
+  linkedin         : "/adrian-perez-avila-20b26060/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
